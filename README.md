@@ -2,7 +2,7 @@
 
 Kaggle'daki **Hotel Booking Demand** veri seti üzerinden, yurt dışında otel açmak isteyen biri için hangi ülke pazarının daha avantajlı olabileceğini inceleyen bir veri analizi projesi. *Veri Analizinde Bilgisayar Programlama 2* dersi ödevi olarak hazırlandı.
 
-> 📊 **Canlı raporu görüntüle:** https://oyku-kaya.github.io/otel-analizi/
+> 📊 **Canlı raporu görüntüle:** https://oyku-kaya.github.io/otelanalizi/
 
 
 
